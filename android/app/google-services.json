@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "451714425885",
+    "firebase_url": "https://rocket-281502.firebaseio.com",
+    "project_id": "rocket-281502",
+    "storage_bucket": "rocket-281502.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451714425885:android:55e3ce3f0a852e231f12f4",
+        "android_client_info": {
+          "package_name": "chat.rocket.feroz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451714425885-pka2tdjhomori335hskfbtjge66em2ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXZWKVPqJtB4tdEewDnEZ0PEUgRLDRj4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451714425885-pka2tdjhomori335hskfbtjge66em2ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

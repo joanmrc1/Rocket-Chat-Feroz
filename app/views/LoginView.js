@@ -80,8 +80,8 @@ class LoginView extends React.Component {
 	constructor(props) {
 		super(props);
 		this.state = {
-			user: '',
-			password: '',
+			user: 'timebyhomes@gmail.com',
+			password: '(time)**',
 			code: '',
 			showTOTP: false
 		};

@@ -1,6 +1,6 @@
-package chat.rocket.reactnative.share;
+package chat.rocket.feroz.share;
 
-import chat.rocket.reactnative.BuildConfig;
+import chat.rocket.feroz.BuildConfig;
 
 import chat.rocket.SharePackage;
 
