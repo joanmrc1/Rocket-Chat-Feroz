@@ -6,6 +6,8 @@
   <item>
     <!-- the app logo, centered horizontally and vertically -->
     <bitmap
+      android:width="200dp"
+      android:height="200dp"
       android:src="@drawable/splash"
       android:gravity="center" />
   </item>

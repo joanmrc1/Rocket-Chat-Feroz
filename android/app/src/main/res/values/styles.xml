@@ -1,8 +1,9 @@
 <resources>
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
-        <item name="android:colorEdgeEffect">#aaaaaa</item>
+        <item name="android:colorEdgeEffect">#31425c</item>
         <item name="colorPrimaryDark">@color/splashBackground</item>
         <item name="android:navigationBarColor">@color/splashBackground</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
     </style>
     
     <style name="Share.Window" parent="android:Theme">
